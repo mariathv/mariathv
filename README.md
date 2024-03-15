@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @mariathv
-- 👀 I’m interested in Programming and anything computer related.
 - 🌱 I’m currently completing CS from FAST NUCES
 - 💬 Discord : THVeez#1995
 - LINK(s): www.blue02.carrd.co
