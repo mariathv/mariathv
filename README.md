@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mariathv
-- 🌱 I’m currently studying CS from FAST NUCES
+- 🌱 I’m currently studying CS at FAST NUCES
 - 💬 Discord : THVeez#1995
 
 <!---
