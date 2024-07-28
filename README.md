@@ -1,7 +1,7 @@
 - CS Student FAST 26'
 - 💬 Discord : THVeez#1995
 
-Personal Projects:
+Personal Project/s:
 https://malist.site
 
 <!---
