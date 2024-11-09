@@ -2,9 +2,27 @@
 💻 Computer Science Student at FAST NUCES, Islamabad<br>📷 Content Creator - Video Editor
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mnk.sus) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maria-naeem-kh) 
-[![Static Badge](https://img.shields.io/badge/MaList-purple?style=flat&logo=monzo)](https://malist.site)
+<table border="0">
+  <tr>
+    <td>
+      <h2>🌐 Socials:</h2>
+      <a href="https://instagram.com/mnk.sus">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+      </a>
+      <a href="https://linkedin.com/in/maria-naeem-kh">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
+      <a href="https://malist.site">
+        <img src="https://img.shields.io/badge/MaList-purple?style=flat&logo=monzo" alt="MaList Badge"/>
+      </a>
+    </td>
+    <td align="right">
+      <img src="https://github.com/user-attachments/assets/f01116cd-0620-4cd4-903a-69c82a325b8f" alt="GIF" width="250"/>
+    </td>
+  </tr>
+</table>
+
+
 
 
 # 💻 Tech Stack:
