@@ -15,6 +15,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mariathv&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
+<img align='right' src='https://github.com/user-attachments/assets/c977bed0-5644-4b5b-80bb-be06596fc5fc' width='200"'>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
