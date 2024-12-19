@@ -1,6 +1,11 @@
+
+
+![GIF]()
+
 # 💫 About Me:
 💻 Computer Science Student at FAST NUCES, Islamabad<br>📷 Content Creator - Video Editor
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img align='right' src='https://media.giphy.com/media/hmxUUPye9lEXKlwgil/giphy.gif' width='200' height='200'>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mnk.sus) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maria-naeem-kh) 
