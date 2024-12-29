@@ -1,7 +1,5 @@
 
 
-![GIF]()
-
 # 💫 About Me:
 💻 Computer Science Student at FAST NUCES, Islamabad<br>📷 Content Creator - Video Editor
 <img align='right' src='https://media.giphy.com/media/hmxUUPye9lEXKlwgil/giphy.gif' width='200' height='200'>
