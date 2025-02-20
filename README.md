@@ -7,7 +7,6 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mnk.sus) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maria-naeem-kh) 
-[![Static Badge](https://img.shields.io/badge/MaList-purple?style=flat&logo=monzo)](https://malist.site)
 
 
 
