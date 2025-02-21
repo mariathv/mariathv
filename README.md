@@ -6,7 +6,9 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mnk.sus) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maria-naeem-kh) 
+[![Instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/filled/instagram.svg)](https://instagram.com/mnk.sus)
+[![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/filled/linkedin.svg)](https://www.linkedin.com/in/maria-naeem-kh/)
+[![Discord](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/discord.svg)](https://discord.com/users/759332221609050113)
 
 
 
