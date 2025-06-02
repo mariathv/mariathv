@@ -1,6 +1,7 @@
+<p align="center">
+  <img src="https://i.ibb.co/zks1bZR/Untitled-2.png" width="60%">
+</p>
 
-
-# 💫 About Me:
 💻 Computer Science Student at FAST NUCES, Islamabad<br>📷 Content Creator - Video Editor
 <img align='right' src='https://media.giphy.com/media/hmxUUPye9lEXKlwgil/giphy.gif' width='200' height='200'>
 
@@ -21,6 +22,24 @@
   <img src="https://skillicons.dev/icons?i=netlify,vercel,aws,blender,unity,eclipse,androidstudio">
 </div>
 <hr>
+
+
+
+
+<div>
+
+  ## 📊 &nbsp;My activities
+  <a href="https://github.com/mariathv">
+    <img width=450 height=170 align="center" alt="" src="https://github-readme-stats.vercel.app/api?username=mariathv&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/mariathv">
+    <img align="center" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariathv&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+  </a>
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 
 
