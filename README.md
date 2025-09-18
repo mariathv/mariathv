@@ -26,17 +26,6 @@
 
 
 
-<div>
-
-  ## 📊 &nbsp;My activities
-  <a href="https://github.com/mariathv">
-    <img width=450 height=170 align="center" alt="" src="https://github-readme-stats.vercel.app/api?username=mariathv&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
-  </a>
-  <a href="https://github.com/mariathv">
-    <img align="center" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariathv&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
-  </a>
-</div>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
