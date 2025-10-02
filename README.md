@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co/zks1bZR/Untitled-2.png" width="60%">
 </p>
 
-💻 Computer Science Student at FAST NUCES, Islamabad<br>📷 Content Creator - Video Editor
+💻 Computer Science Student at FAST NUCES, Islamabad ; Aspiring Agentic AI & API Developer<br>📷 Content Creator - Video Editor
 <img align='right' src='https://media.giphy.com/media/hmxUUPye9lEXKlwgil/giphy.gif' width='200' height='200'>
 
 
