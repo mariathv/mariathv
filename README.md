@@ -7,7 +7,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/filled/instagram.svg)](https://instagram.com/mnk.sus)
+[![Instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/filled/instagram.svg)](https://www.instagram.com/mawonkki/)
 [![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/filled/linkedin.svg)](https://www.linkedin.com/in/maria-naeem-kh/)
 [![Discord](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/discord.svg)](https://discord.com/users/759332221609050113)
 
